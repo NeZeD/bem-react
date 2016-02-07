@@ -1,4 +1,4 @@
-# react-bem [![NPM version](https://badge.fury.io/js/react-bem.svg)](https://badge.fury.io/js/react-bem) [![Build Status](https://travis-ci.org/react-bem/react-bem.svg?branch=master)](https://travis-ci.org/react-bem/react-bem)
+# react-bem [![NPM version](https://badge.fury.io/js/react-bem.svg)](https://badge.fury.io/js/react-bem) [![Build Status](https://travis-ci.org/react-bem/react-bem.svg?branch=master)](https://travis-ci.org/react-bem/react-bem) [![Coverage Status](https://coveralls.io/repos/github/react-bem/react-bem/badge.svg?branch=master)](https://coveralls.io/github/react-bem/react-bem?branch=master)
 
 `react-bem` is a module on top of [React](https://github.com/facebook/react/) which joins awesome React with some good BEM-specific features.
 

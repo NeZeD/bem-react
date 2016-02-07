@@ -1,0 +1,9 @@
+instrumentation:
+    excludes:
+        - "**/node_modules/**"
+        - "**/spec/**"
+reporting:
+    reports:
+        - "lcov"
+        - "text-summary"
+    dir: "coverage"
